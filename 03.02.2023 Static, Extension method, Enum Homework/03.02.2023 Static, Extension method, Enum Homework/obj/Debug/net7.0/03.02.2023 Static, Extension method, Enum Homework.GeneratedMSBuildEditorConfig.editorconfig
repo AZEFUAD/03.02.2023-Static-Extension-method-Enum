@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _03._02._2023_Static__Extension_method__Enum_Homework
+build_property.ProjectDir = C:\Users\fuadkhs\source\repos\03.02.2023 Static, Extension method, Enum Homework\03.02.2023 Static, Extension method, Enum Homework\
